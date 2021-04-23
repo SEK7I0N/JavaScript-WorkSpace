@@ -1,0 +1,10 @@
+.change {
+  color: lightblue;
+  font-size: 50px;
+  border: 4px solid rgb(236, 165, 160);
+}
+
+.list-toggle {
+  color: rgb(27, 163, 209);
+  border: 4px solid rgb(11, 170, 109);
+}

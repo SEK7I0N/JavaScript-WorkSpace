@@ -1,0 +1,9 @@
+GET http://localhost:3000/products/3
+
+
+POST http://localhost:3000/add/
+Content-Type: application/json
+{
+    "id": 4,
+  "name": "Black-Box"
+}
